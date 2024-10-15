@@ -23,3 +23,8 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
   * Pie chart displaying vehicle eligibility status for CAFV incentives.
 - Interactive Filtering.
 - Dashboard Interactivity.
+
+## Dashboard
+
+![Screenshot 2024-10-15 155355](https://github.com/user-attachments/assets/b827663b-1c57-408b-a2b9-9ead2cd11c56)
+
