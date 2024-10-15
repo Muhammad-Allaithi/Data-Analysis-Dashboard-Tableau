@@ -12,3 +12,14 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 - What is the distribution of EVs across states?
 
 - Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Tableau/blob/main/Screenshot%202024-10-15%20155355.png">View Dashboard</a>
+
+## Process
+- Data Aggregation.
+- Descriptive Analytics.
+- Data Visualization:
+  * Line graph showing EV growth over time by model year.
+  * Bar charts representing top vehicle makes and models based on total count.
+  * Map visualization highlighting the distribution of EVs by state.
+  * Pie chart displaying vehicle eligibility status for CAFV incentives.
+- Interactive Filtering.
+- Dashboard Interactivity.
