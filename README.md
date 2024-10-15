@@ -29,6 +29,7 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 ![Screenshot 2024-10-15 155355](https://github.com/user-attachments/assets/b827663b-1c57-408b-a2b9-9ead2cd11c56)
 
 ## Project Insight
+
 - Average Electric Range.
 - EV Distribution by Model.
 - Top Manufacturers.
@@ -37,3 +38,6 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 - CAFV Eligibility Analysis.
 - Geographic Concentration.
 
+## Final Conclusion
+
+The "Electric Vehicle Data Analysis" dashboard reveals a comprehensive overview of the EV landscape. Tesla dominates the market, with its Model Y and Model 3 being the most popular. The average electric range is 67.83 miles, which may influence EV adoption depending on user needs. There has been consistent growth in EV adoption, peaking in 2023. A significant portion of EVs remains either CAFV ineligible or their eligibility is unknown, highlighting potential for expanding clean energy incentives. Overall, the data reflects growing interest and investment in electric vehicles across various states and manufacturers.
