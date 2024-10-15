@@ -28,3 +28,12 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 
 ![Screenshot 2024-10-15 155355](https://github.com/user-attachments/assets/b827663b-1c57-408b-a2b9-9ead2cd11c56)
 
+## Project Insight
+- Average Electric Range.
+- EV Distribution by Model.
+- Top Manufacturers.
+- Top 10 Vehicle Brands.
+- Growth in EV Adoption.
+- CAFV Eligibility Analysis.
+- Geographic Concentration.
+
