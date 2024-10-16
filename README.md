@@ -17,15 +17,15 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 
 ## Process
 
-- Data Aggregation.
-- Descriptive Analytics.
+- Data Aggregation - Data was grouped and aggregated by variables like vehicle make, model, year, and state to derive key insights.
+- Descriptive Analytics - Key performance indicators (KPIs) such as Total Vehicles, Total BEV Vehicles, and Total PHEV Vehicles were calculated, alongside Average Electric Range. This provided an overview of the data for quick insights.
 - Data Visualization:
   * Line graph showing EV growth over time by model year.
   * Bar charts representing top vehicle makes and models based on total count.
   * Map visualization highlighting the distribution of EVs by state.
   * Pie chart displaying vehicle eligibility status for CAFV incentives.
-- Interactive Filtering.
-- Dashboard Interactivity.
+- Interactive Filtering - The dashboard allows users to filter data by CAFV Eligibility, EV Type, Model, and State to view specific insights tailored to user queries. This makes the dashboard flexible and responsive to various data exploration needs.
+- Dashboard Interactivity - Add filters (CAFV eligibility, state, model, EV type) to make the dashboard interactive, allowing users to drill down into specific insights.
 
 ## Dashboard
 
