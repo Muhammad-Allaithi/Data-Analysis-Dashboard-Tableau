@@ -13,7 +13,7 @@ Developed an interactive Tableau dashboard analyzing EV adoption trends by model
 - Which EV make and model are the most popular?
 - What is the distribution of EVs across states?
 
-- Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Tableau/blob/main/Screenshot%202024-10-15%20155355.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Tableau/blob/main/Screenshot%202024-10-15%20155355.png">View Dashboard</a>
 
 ## Process
 
